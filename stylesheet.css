@@ -1,0 +1,23 @@
+h1 {
+  font-size: 90px;
+  font-weight: 700;
+  color: black;
+}
+h2 {
+  color: green;
+}
+header {
+  background-color: chocolate;
+  text-align: center;
+}
+body {
+  font: size 25px;
+  color: brown;
+}
+h3 {
+  color: darkolivegreen;
+}
+body {
+  background-color: grey;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
