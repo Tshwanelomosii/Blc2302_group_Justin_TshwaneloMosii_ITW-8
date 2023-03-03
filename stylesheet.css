@@ -14,29 +14,22 @@ header {
   padding-bottom: 10px;
 }
 
-h2 {
-  background-color: purple;
-  margin-right: 700px;
-  color: green;
-}
-
 h3 {
   color: darkolivegreen;
 }
 body {
-  background-color: #b0a8b9;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: #b0a8b9;
   padding: 0px;
   margin: 0px;
   font: size 25px;
-  color: black;
   border-style: solid;
   border-color: red;
 }
 aside {
   text-align: center;
 }
-.box {
+.menu {
   background-color: burlywood;
   width: 150px;
   padding: 15px;
@@ -48,8 +41,41 @@ article {
 .footer {
   margin: 50px;
 }
-
+h2 {
+ 
+  background-color: purple;
+  color: green;
+  margin: 0px;
+}
 img {
   border-radius: 50%;
-  padding-top: 10px;
+  padding-top: 10px
+}
+.flexbox-container {
+  display: flex;
+  justify-content:space-between;
+  
+
+}
+.flexbox-A1 {
+  border: solid;
+  border-color: darkblue;
+  flex:1;
+  margin-right: 2px;
+}
+.flexbox-A2 {
+  border: solid;
+  flex:1;
+  border-color: darkblue;
+  margin-right: 2px;
+}
+.flexbox-A3{
+  border: solid;
+  flex:1;
+  border-color: darkblue;
+}
+.menu{
+  position:absolute;
+  top: 0px;
+  margin-top: 0px;
 }
