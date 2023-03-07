@@ -15,11 +15,11 @@ header {
 }
 
 h3 {
-  color: darkolivegreen;
+  color: darkslategray;
 }
 body {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  background-color: #b0a8b9;
+  background-color:white;
   padding: 0px;
   margin: 0px;
   font: size 25px;
@@ -43,8 +43,8 @@ article {
 }
 h2 {
  
-  background-color: purple;
-  color: green;
+  background-color: #b0a8b9;
+  color: midnightblue;
   margin: 0px;
 }
 img {
