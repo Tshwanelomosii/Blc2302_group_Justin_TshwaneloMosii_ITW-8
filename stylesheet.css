@@ -1,17 +1,17 @@
 h1 {
   font-size: 70px;
   font-weight: 700;
-  color: black;
-  background-color: #c34a36;
+  color:red;
+  
   text-align: center;
   margin-right: 400px;
   margin-left: 400px;
 }
 
 header {
-  background-color: #4b44;
   text-align: center;
   padding-bottom: 10px;
+  
 }
 
 h3 {
@@ -19,7 +19,7 @@ h3 {
 }
 body {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  background-color:white;
+  background-color:darkkhaki;
   padding: 0px;
   margin: 0px;
   font: size 25px;
@@ -43,13 +43,15 @@ article {
 }
 h2 {
  
-  background-color: #b0a8b9;
+  background-color:darkolivegreen;
   color: midnightblue;
   margin: 0px;
 }
 img {
   border-radius: 50%;
-  padding-top: 10px
+  padding-top: 10px;
+  text-align: center;
+  
 }
 .flexbox-container {
   display: flex;
@@ -78,4 +80,13 @@ img {
   position:absolute;
   top: 0px;
   margin-top: 0px;
+}
+header {
+  background:url(https://blog.depositphotos.com/wp-content/uploads/2017/07/Soothing-nature-backgrounds-2.jpg.webp);
+  background-repeat: no-repeat;
+  
+  
+}
+.paragraphcolor {
+  color: white;
 }
